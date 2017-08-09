@@ -1,0 +1,124 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grouper\n"
+"POT-Creation-Date: 2017-03-01 21:29+0100\n"
+"PO-Revision-Date: 2017-02-22 14:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: Steeve Lefebvre <steeve.lfbvr@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: grouper.php:23
+msgid "Grouper"
+msgstr ""
+
+#: grouper.php:24
+msgid ""
+"Grouper allows to gather the plugins developed by @webstartup in a single "
+"link of the wordpress admin menu."
+msgstr ""
+
+#: grouper.php:47
+msgid "Page"
+msgstr ""
+
+#: init.php:61 init.php:76
+msgid "About"
+msgstr ""
+
+#: init.php:68
+msgid "Settings saved"
+msgstr ""
+
+#: init.php:78 init.php:191
+msgid "More information"
+msgstr ""
+
+#: init.php:78
+msgid "plugin page"
+msgstr ""
+
+#: init.php:79
+msgid "Development for the web"
+msgstr ""
+
+#: init.php:80
+msgid "Support"
+msgstr ""
+
+#: init.php:81
+msgid "Ask your question"
+msgstr ""
+
+#: init.php:95
+msgid "Your message has been sent !"
+msgstr ""
+
+#: init.php:97
+msgid "Something went wrong, go back and try again !"
+msgstr ""
+
+#: init.php:103
+msgid "Your name"
+msgstr ""
+
+#: init.php:106
+msgid "Your Email Address"
+msgstr ""
+
+#: init.php:109
+msgid "Request for assistance, translation or new functionality, here."
+msgstr ""
+
+#: init.php:112
+msgid "Send"
+msgstr ""
+
+#: init.php:112
+msgid "...sending"
+msgstr ""
+
+#: init.php:117
+msgid "Extensions page compatible with Grouper."
+msgstr ""
+
+#: init.php:120
+msgid "More information here."
+msgstr ""
+
+#: init.php:181
+msgid "Installed, inactive"
+msgstr ""
+
+#: init.php:182
+msgid "Activate"
+msgstr ""
+
+#: init.php:185
+msgid "Activated"
+msgstr ""
+
+#: init.php:190
+msgid "Not installed"
+msgstr ""
+
+#: init.php:387
+msgid "This Plugin requires at least version of WORDPRESS"
+msgstr ""
+
+#: init.php:387 init.php:390
+msgid "You use version"
+msgstr ""
+
+#: init.php:390
+msgid "This Plugin requires at least version of PHP"
+msgstr ""

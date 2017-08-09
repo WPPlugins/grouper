@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Grouper\n"
+"POT-Creation-Date: 2017-03-01 21:29+0100\n"
+"PO-Revision-Date: 2017-03-01 21:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: Steeve Lefebvre <steeve.lfbvr@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: grouper.php:23
+msgid "Grouper"
+msgstr "Grouper"
+
+#: grouper.php:24
+msgid ""
+"Grouper allows to gather the plugins developed by @webstartup in a single "
+"link of the wordpress admin menu."
+msgstr ""
+"Grouper permet de recueillir les plugins développés par @webstartup en un "
+"seul lien du menu admin wordpress."
+
+#: grouper.php:47
+msgid "Page"
+msgstr "Page"
+
+#: init.php:61 init.php:76
+msgid "About"
+msgstr "A propos"
+
+#: init.php:68
+msgid "Settings saved"
+msgstr "Réglages enregistrés"
+
+#: init.php:78 init.php:191
+msgid "More information"
+msgstr "Plus d'informations"
+
+#: init.php:78
+msgid "plugin page"
+msgstr "Page du plugin"
+
+#: init.php:79
+msgid "Development for the web"
+msgstr "Développement pour le web"
+
+#: init.php:80
+msgid "Support"
+msgstr "Support"
+
+#: init.php:81
+msgid "Ask your question"
+msgstr "Posez votre question"
+
+#: init.php:95
+msgid "Your message has been sent !"
+msgstr "Votre message a été envoyé!"
+
+#: init.php:97
+msgid "Something went wrong, go back and try again !"
+msgstr "Quelque chose n’allait pas, revenir en arrière et essayer de nouveau !"
+
+#: init.php:103
+msgid "Your name"
+msgstr "Votre nom"
+
+#: init.php:106
+msgid "Your Email Address"
+msgstr "Votre Adresse Mail"
+
+#: init.php:109
+msgid "Request for assistance, translation or new functionality, here."
+msgstr ""
+"Demande d’assistance, de traduction ou de nouvelles fonctionnalités, ici."
+
+#: init.php:112
+msgid "Send"
+msgstr "Envoyer"
+
+#: init.php:112
+msgid "...sending"
+msgstr "...envoie en cours"
+
+#: init.php:117
+msgid "Extensions page compatible with Grouper."
+msgstr "Page extensions compatible avec Grouper."
+
+#: init.php:120
+msgid "More information here."
+msgstr "Plus d’informations ici"
+
+#: init.php:181
+msgid "Installed, inactive"
+msgstr "Installé & inactif"
+
+#: init.php:182
+msgid "Activate"
+msgstr "Activer"
+
+#: init.php:185
+msgid "Activated"
+msgstr "Activé"
+
+#: init.php:190
+msgid "Not installed"
+msgstr "Non installé"
+
+#: init.php:387
+msgid "This Plugin requires at least version of WORDPRESS"
+msgstr "Ce plugin nécessite au moins la version de WORDPRESS"
+
+#: init.php:387 init.php:390
+msgid "You use version"
+msgstr "Vous utilisez la version"
+
+#: init.php:390
+msgid "This Plugin requires at least version of PHP"
+msgstr "Ce plugin nécessite au moins la version de PHP"
+
+#~ msgid "Formulate your support request or feature proposal here..."
+#~ msgstr ""
+#~ "Formuler ici votre demande de support ou votre proposition de nouvelle  "
+#~ "fonctionnalité..."
+
+#~ msgid ""
+#~ "This plugin is entirely dedicated to the grouping of plugins designed by "
+#~ "@webstartup. "
+#~ msgstr ""
+#~ "Ce plugin est entièrement dédié à l’ensemble de plugins conçu par "
+#~ "@webstartup."
+
+#~ msgid ""
+#~ "Its utility is simple, decrease the height of the wordpress admin menu "
+#~ "with the compatible plugins Group."
+#~ msgstr ""
+#~ "Son utilité est simple, réduire la hauteur du menu admin wordpress avec "
+#~ "les plugins compatibles Grouper."
+
+#~ msgid "...Sending"
+#~ msgstr "envoi en cours"
+
+#~ msgid "Plugin grouping system by"
+#~ msgstr "Système de groupement de plugin"
